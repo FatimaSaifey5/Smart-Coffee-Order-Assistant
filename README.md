@@ -1,2 +1,2 @@
-# Smart-Coffee-Order-Assistant
-I have built a simple smart assistant for a coffee shop that helps: 1. Authenticate users 2. Take coffee orders 3. Split bills with optional tips
+A practice JavaScript project simulating a basic coffee shop system. Includes simple login, order calculation with discounts, and a bill splitter with tip — built for learning and experimentation.
+
